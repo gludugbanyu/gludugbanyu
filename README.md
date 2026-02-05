@@ -1,18 +1,111 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2200&pause=500&color=00FFAA&center=true&vCenter=true&width=900&lines=booting+gludugbanyu+terminal...;checking+system+integrity...;loading+php+mysql+apache+modules...;developer+mode+activated;type+help" />
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gludug) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/betaragludug) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@gludug) 
+<pre>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║   GLUDUGBANYU TERMINAL v3.1.4                                              ║
+║   Kernel: GNU/Linux • Arch: x86_64 • Shell: bash                           ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+</pre>
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gludugbanyu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=gludugbanyu&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```bash
+[  OK  ] Initializing developer environment
+[  OK  ] Mounting /dev/skills
+[  OK  ] Starting apache.service
+[  OK  ] Connecting to mysql.socket
+[ WARN ] Coffee level below minimum threshold
+[  OK  ] Loading creativity.module
+```
 
-### 🔝 Top Contributed Repositories
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&layout=compact&theme=tokyonight)
+```bash
+gludugbanyu@github:~$ whoami
+gludugbanyu
 
----
-[![](https://visitcount.itsvg.in/api?id=gludugbanyu&icon=0&color=0)](https://visitcount.itsvg.in)
+gludugbanyu@github:~$ role
+Fullstack PHP Developer
+```
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```bash id="2p3kfs"
+gludugbanyu@github:~$ stack --list
+> PHP
+> MySQL
+> Apache
+> JavaScript
+> jQuery
+> Bootstrap
+> HTML5
+> CSS3
+```
+
+```bash
+gludugbanyu@github:~$ design --tools
+Photoshop
+Illustrator
+```
+
+```bash
+gludugbanyu@github:~$ run project_focus.sh
+
+Loading modules █████████░░░░░ 65%
+Loading modules █████████████░ 92%
+Loading modules ███████████████ 100%
+
+✔ CBT System Architecture
+✔ Web Application Development
+✔ Automation & Admin Tools
+✔ Clean UI + Efficient Backend
+```
+
+```bash
+gludugbanyu@github:~$ simulate --error
+
+Segmentation fault (core dumped)
+Reason: Missing semicolon somewhere in the universe.
+
+Attempting auto-fix...
+✔ Fixed. (probably)
+```
+
+```bash id="h3k9sd"
+gludugbanyu@github:~$ philosophy
+"Code. Test. Improve. Repeat."
+```
+
+```bash
+gludugbanyu@github:~$ socials --connect
+facebook   : https://facebook.com/gludug
+instagram  : https://instagram.com/betaragludug
+youtube    : https://youtube.com/@gludug
+```
+
+```bash
+gludugbanyu@github:~$ history
+  1  git init
+  2  git add .
+  3  git commit -m "first commit"
+  4  debug for 3 hours
+  5  realize missing ;
+  6  fix
+  7  deploy
+  8  repeat
+```
+
+```bash
+gludugbanyu@github:~$ help
+Commands:
+whoami | role | stack | design | project_focus | philosophy | socials | history | exit
+```
+
+```bash
+gludugbanyu@github:~$ exit
+Saving session...
+logout
+Connection to github.com closed.
+```
+
+<pre>
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SESSION TERMINATED                                                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+</pre>
