@@ -9,8 +9,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=gludugbanyu&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=gludugbanyu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/gludugbanyu)
+
+### 📊 GitHub Service Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=gludugbanyu&show_icons=true&theme=tokyonight&count_private=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gludugbanyu&icon=0&color=0)](https://visitcount.itsvg.in)
