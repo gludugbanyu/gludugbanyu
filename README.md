@@ -10,10 +10,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repositories
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/gludugbanyu)
-
-### 📊 GitHub Service Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=gludugbanyu&show_icons=true&theme=tokyonight&count_private=true)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=gludugbanyu&layout=compact&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gludugbanyu&icon=0&color=0)](https://visitcount.itsvg.in)
